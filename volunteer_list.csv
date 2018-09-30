@@ -1,0 +1,21 @@
+Name,Slots Desired,Email,Phone,"SATURDAY: 
+10-12pm","SATURDAY: 
+12-2pm","SATURDAY: 
+2-4pm","SUNDAY: 
+10-12 pm","SUNDAY: 
+12-2 pm","SUNDAY: 
+2-4 pm"
+volunteer A,6,,,pos1,pos1,pos1,pos1,pos1,pos1
+volunteer B,2,,,No,pos5,No,pos7,No,No
+volunteer C,1,,,No,No,No,pos3,No,No
+volunteer D,6,,,pos2,pos2,pos2,pos2,pos2,pos2
+volunteer E,4,,,No,pos4,pos4,pos4,pos4,No
+volunteer F,3,,,No,No,pos5,pos5,No,pos5
+volunteer G,1,,,No,No,No,No,pos6,No
+volunteer H,1,,,No,No,No,No,No,pos8
+volunteer I,1,,,No,No,No,No,No,pos9
+volunteer J,4,,,pos5,No,pos5,pos2,No,pos2
+volunteer K,2,,,yes,No,yes,No,No,No
+volunteer L,4,,,yes,No,yes,yes,No,yes
+volunteer M,3,,,No,yes,No,No,No,No
+volunteer N,1,,,yes,yes,yes,yes,yes,yes
